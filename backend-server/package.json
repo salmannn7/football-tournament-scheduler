@@ -1,0 +1,21 @@
+{
+    "name": "thematic_project",
+    "version": "1.0.0",
+    "description": "For the thematic project assignment",
+    "main": "server.js",
+    "scripts": {
+        "test": "",
+        "dev": "node server.js"
+    },
+    "author": "Asif_Mir",
+    "license": "ISC",
+    "dependencies": {
+        "chai": "^4.3.7",
+        "cors": "^2.8.5",
+        "email-validator": "^2.0.4",
+        "express": "^4.18.2",
+        "joi": "^17.9.2",
+        "morgan": "^1.10.0",
+        "sqlite3": "^5.1.6"
+    }
+}
